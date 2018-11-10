@@ -6,4 +6,4 @@ Since then, the SDK was deprecated and the scripts have been updated here: https
 For more info see this post:
 https://serverfault.com/questions/448152/how-to-schedule-automatic-daily-snapshots-of-aws-ec2-windows-instance
 
-
+There is also a SQL Server backup script written by Michael Friis (http://friism.com) and still available on his blog through the Search. I am not sure I got this one to work and I ended up going another route - getting as real SQL Server DBA to do the backups for me
